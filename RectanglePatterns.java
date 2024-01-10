@@ -5,7 +5,15 @@ public class RectanglePatterns  {
         System.out.print("Enter the number of row: ");  
         int row = scanner.nextInt();
         System.out.print("Enter the number of column: ");  
-        int column = scanner.nextInt();         
+        int column = scanner.nextInt();   
+        
+        /*
+        The pattern looks like the below:
+        *****
+        *****
+        *****
+        ***** 
+        */ 
         
         for(int i = 1; i <= row; i++) {
             for(int j = 1; j <= column; j++) {

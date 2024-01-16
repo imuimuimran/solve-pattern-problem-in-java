@@ -20,5 +20,7 @@ public class InvertedHalfPiramidwithNumber  {
             }
             System.out.println();
         }
+
+        scanner.close();
     }  
 }  

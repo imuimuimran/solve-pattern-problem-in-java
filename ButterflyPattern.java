@@ -52,5 +52,7 @@ public class ButterflyPattern {
             }
             System.out.println();
         }
+
+        scanner.close();
     }  
 }  

@@ -23,5 +23,7 @@ public class InvertedRotateHalfpiramidPattern {
             }
             System.out.println();
         }
+
+        scanner.close();
     }  
 }  

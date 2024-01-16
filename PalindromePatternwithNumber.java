@@ -28,5 +28,7 @@ public class PalindromePatternwithNumber {
             }
             System.out.println();
         }
+
+        scanner.close();
     }  
 }  

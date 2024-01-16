@@ -21,5 +21,7 @@ public class RectanglePatterns  {
             }
             System.out.println();
         }
+
+        scanner.close();
     }  
 }  

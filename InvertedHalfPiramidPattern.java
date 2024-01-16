@@ -20,5 +20,7 @@ public class InvertedHalfPiramidPattern  {
             }
             System.out.println();
         }
+
+        scanner.close();
     }  
 }  

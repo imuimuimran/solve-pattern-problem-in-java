@@ -25,5 +25,7 @@ public class PiramidwithNumber {
             }
             System.out.println();
         }
+
+        scanner.close();
     }  
 }  

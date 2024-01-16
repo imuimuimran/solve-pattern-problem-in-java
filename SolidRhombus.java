@@ -23,5 +23,7 @@ public class SolidRhombus {
             }
             System.out.println();
         }
+
+        scanner.close();
     }  
 }  

@@ -42,5 +42,7 @@ public class DiamondPattern {
             System.out.println();
             
         }
+
+        scanner.close();
     }  
 }  

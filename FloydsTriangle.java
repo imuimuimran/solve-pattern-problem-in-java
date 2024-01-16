@@ -22,5 +22,7 @@ public class FloydsTriangle  {
             }
             System.out.println();
         }
+
+        scanner.close();
     }  
 }  

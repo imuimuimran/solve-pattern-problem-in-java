@@ -4,7 +4,7 @@ public class BinaryTriangle  {
         Scanner scanner = new Scanner(System.in);  
         System.out.print("Enter the number of row: ");  
         int row = scanner.nextInt();
-        int num = 1;
+        // int num = 1;
         
         /*
         The pattern looks like the below:
@@ -26,5 +26,7 @@ public class BinaryTriangle  {
             }
             System.out.println();
         }
+
+        scanner.close();
     }  
 }  

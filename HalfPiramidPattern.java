@@ -20,5 +20,7 @@ public class HalfPiramidPattern  {
             }
             System.out.println();
         }
+
+        scanner.close();
     }  
 }  

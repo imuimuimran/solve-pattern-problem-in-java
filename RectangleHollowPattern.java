@@ -25,5 +25,7 @@ public class RectangleHollowPattern  {
             }
             System.out.println();
         }
+
+        scanner.close();
     }  
 }  

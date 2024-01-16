@@ -20,5 +20,7 @@ public class HalfPiramidwithNumber  {
             }
             System.out.println();
         }
+
+        scanner.close();
     }  
 }  

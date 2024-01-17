@@ -11,11 +11,14 @@ This repository is created for practicing and solving random pattern problems in
     <li>Floyd's Triangle</li>
     <li>Half Piramid Pattern</li>
     <li>Half Piramid with Number</li>
+    <li>Half Piramid with Number 2</li>
     <li>Inverted Half Piramid Pattern</li>
     <li>Inverted Half Piramid with Number</li>
+    <li>Inverted Half Piramid with Number 2</li>
     <li>Inverted Rotate Half Piramid Pattern</li>
     <li>Palindrome Number Pattern</li>
-    <li>Piramid number pattern</li>
+    <li>Palindrome Number Pattern</li>
+    <li>Pascals Triangle pattern</li>
     <li>Rectangle Hollow Pattern</li>
     <li>Rectangle Pattern</li>
     <li>Solid Rhombus Pattern</li>

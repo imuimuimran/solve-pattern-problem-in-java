@@ -8,11 +8,11 @@ public class XPattern {
         /*
         The pattern looks like the below:
 
-            *
+        *    *
+         *  *
            *
-          *
-         *
-        *
+         *  *
+        *    *
 
         */ 
         

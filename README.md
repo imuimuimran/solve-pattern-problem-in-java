@@ -8,6 +8,7 @@ This repository is created for practicing and solving random pattern problems in
     <li>Binary Triangle</li>
     <li>Butterfly Pattern</li>
     <li>Diamond Pattern</li>
+    <li>Diagonal Pattern</li>
     <li>Floyd's Triangle</li>
     <li>Half Piramid Pattern</li>
     <li>Half Piramid with Number</li>
@@ -22,4 +23,5 @@ This repository is created for practicing and solving random pattern problems in
     <li>Rectangle Hollow Pattern</li>
     <li>Rectangle Pattern</li>
     <li>Solid Rhombus Pattern</li>
+    <li>X Pattern</li>
 </ul>
